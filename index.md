@@ -1,3 +1,7 @@
+## Documentation for word-count project
+
+This project verifies Zipf's law ...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/c4e3/word-count/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
